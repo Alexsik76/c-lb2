@@ -4,11 +4,12 @@
 
 using namespace std;
 
-int n, i;
-float q = -3.14, r = 3.14, b = -2.111111, c = 0.5, d = 2;
-double x_2 = c, x_1 = d, x;
+
 int main()
 {
+    int n, i;
+    float q = -3.14, r = 3.14, b = -2.111111, c = 0.5, d = 2;
+    double x_2 = c, x_1 = d, x;
     cout << "Enter the value of the argument n(int, n > 1): ";
     cin >> n;
     cout << "\n";
